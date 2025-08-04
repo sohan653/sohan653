@@ -1,7 +1,7 @@
 # Hi there, I'm Sohanur Rahman 👋
 
 ## 🚀 About Me
-Experienced Full-Stack Developer from Bangladesh specializing in scalable web applications and enterprise solutions. I transform complex business requirements into clean, maintainable code with a passion for innovation.
+Experienced Full-Stack Developer specializing in scalable web applications and enterprise solutions.
 
 ## 💼 What I Do
 - 🌐 Build modern web applications with **Next.js** and **React**
